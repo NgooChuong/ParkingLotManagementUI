@@ -15,6 +15,7 @@
   - **User Interface**: Intuitive UI with dashboards and forms for easy management. 🖥️
   - **Search and Filter**: Search and filter parking lot and spot information by various criteria. 🔍📊
   - **Chat**: Chat with staff for more information about parking lots. 💬
+  - **Google Sign In**: User login with Google Account. 💬
 
 - **Staff Features** 👨‍🏫
   - **Manage Parking Spots**: Monitor the status of each spot (available, booked, in use, under maintenance). 📍🔧
